@@ -5,8 +5,8 @@ xkb_symbols "pro-colemak-dh" {
 
     name[Group1]= "English (Programmers Colemak-dh)";
 
-    key <CAPS> {        [ Control_R      ]       };
-    key <RCTL> {        [ Super_R      ]         };
+    key <CAPS> { [ Control_R ] };
+    // key <RCTL> { [ Super_R ] };
     key <TLDE> { [       dollar,        asciitilde, dead_grave, dead_tilde      ] };
 
     key <AE01> { [          plus,       1               ]       };
