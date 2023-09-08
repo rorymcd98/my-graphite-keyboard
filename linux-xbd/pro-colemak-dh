@@ -46,7 +46,7 @@ xkb_symbols "pro-colemak-dh" {
     key <AC09> { [          i,  I               ]       };
     key <AC10> { [          o,  O               ]       };
     key <AC11> { [      minus,  underscore      ]       };
-    key <AC12> { [     number,  sterling        ]       };
+    key <AC12> { [     numbersign,  sterling        ]       };
  
     key <LSGT> { [   apostrophe,        quotedbl, dead_ogonek, dead_doubleacute ] };
     key <AB01> { [          z,  Z               ]       };
@@ -55,8 +55,8 @@ xkb_symbols "pro-colemak-dh" {
     key <AB04> { [          d,  D               ]       };
     key <AB05> { [          v,  V               ]       };
     key <AB06> { [  backslash,  bar             ]       };
-    key <AB07> { [          k,  K               ]       };
-    key <AB08> { [          h,  H               ]       };
+    key <AB07> { [          h,  H               ]       };
+    key <AB08> { [          k,  K               ]       };
     key <AB09> { [      comma,  less,   dead_cedilla, dead_caron        ] };
     key <AB10> { [     period, greater, dead_abovedot, periodcentered  ] };
 };
