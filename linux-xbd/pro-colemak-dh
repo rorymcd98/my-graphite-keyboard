@@ -53,8 +53,8 @@ xkb_symbols "pro-colemak-dh" {
     key <AB02> { [          x,  X               ]       };
     key <AB03> { [          c,  C               ]       };
     key <AB04> { [          d,  D               ]       };
-    key <AB05> { [          v,  V               ]       };
-    key <AB06> { [  backslash,  bar             ]       };
+    key <AB05> { [  backslash,  bar             ]       };
+    key <AB06> { [          v,  V               ]       };
     key <AB07> { [          h,  H               ]       };
     key <AB08> { [          k,  K               ]       };
     key <AB09> { [      comma,  less,   dead_cedilla, dead_caron        ] };
