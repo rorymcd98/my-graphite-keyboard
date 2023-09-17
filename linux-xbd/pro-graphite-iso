@@ -49,7 +49,7 @@ xkb_symbols "pro-graphite-iso" {
     key <AC12> { [     numbersign,  sterling        ]       };
  
     key <LSGT> { [      slash,  question        ]       };
-    key <AB01> { [          q,  X               ]       };
+    key <AB01> { [          q,  Q               ]       };
     key <AB02> { [          x,  X               ]       };
     key <AB03> { [          m,  M               ]       };
     key <AB04> { [          c,  C               ]       };
