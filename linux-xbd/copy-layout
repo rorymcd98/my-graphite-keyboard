@@ -1,0 +1,5 @@
+#!/bin/bash
+
+layout="pro-colemak-dh"
+
+cp "./$layout" "/usr/share/X11/xkb/symbols/$layout"
