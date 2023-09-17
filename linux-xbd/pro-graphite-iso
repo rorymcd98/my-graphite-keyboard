@@ -1,0 +1,62 @@
+// Graphite on ISO for programmers by Rory McDonald
+
+partial alphanumeric_keys
+xkb_symbols "pro-graphite-iso" {
+
+    name[Group1]= "English (Programmers Graphite ISO)";
+
+    key <CAPS> { [ Control_R ] };
+    // key <RCTL> { [ Super_R ] };
+    key <TLDE> { [       dollar,        asciitilde, dead_grave, dead_tilde      ] };
+
+    key <AE01> { [          plus,       1               ]       };
+    key <AE02> { [          bracketleft,        2               ]       };
+    key <AE03> { [          braceleft,  3       ]       };
+    key <AE04> { [          parenleft,  4               ]       };
+    key <AE05> { [          ampersand,      5               ]       };
+    key <AE06> { [          equal,  6, dead_circumflex, dead_circumflex ]   };
+    key <AE07> { [          parenright, 7       ]       };
+    key <AE08> { [          braceright, 8       ]       };
+    key <AE09> { [          bracketright,       9,  dead_grave] };
+    key <AE10> { [          asterisk,   0       ]       };
+    key <AE11> { [ exclam,      percent ]       };
+    key <AE12> { [ bar, grave,  dead_tilde] };
+
+    key <AD01> { [          b,  B               ]       };
+    key <AD02> { [          l,  L               ]       };
+    key <AD03> { [          d,  D               ]       };
+    key <AD04> { [          w,  W               ]       };
+    key <AD05> { [          z,  Z               ]       };
+    key <AD06> { [   apostrophe,        quotedbl, dead_ogonek, dead_doubleacute ] };
+    key <AD07> { [          f,  F               ]       };
+    key <AD08> { [          o,  O               ]       };
+    key <AD09> { [          u,  U               ]       };
+    key <AD10> { [          j,  J               ]       };
+    key <AD11> { [  semicolon,  colon, dead_acute, dead_diaeresis       ] };
+    key <AD12> { [      at,     asciicircum             ]       };
+
+    key <AC01> { [          n,  N               ]       };
+    key <AC02> { [          r,  R               ]       };
+    key <AC03> { [          t,  T               ]       };
+    key <AC04> { [          s,  S               ]       };
+    key <AC05> { [          g,  G               ]       };
+    key <AC06> { [          y,  Y               ]       };
+    key <AC07> { [          h,  H               ]       };
+    key <AC08> { [          a,  A               ]       };
+    key <AC09> { [          e,  E               ]       };
+    key <AC10> { [          i,  I               ]       };
+    key <AC11> { [      minus,  underscore      ]       };
+    key <AC12> { [     numbersign,  sterling        ]       };
+ 
+    key <LSGT> { [      slash,  question        ]       };
+    key <AB01> { [          q,  X               ]       };
+    key <AB02> { [          x,  X               ]       };
+    key <AB03> { [          m,  M               ]       };
+    key <AB04> { [          c,  C               ]       };
+    key <AB05> { [  backslash,  bar             ]       };
+    key <AB06> { [          v,  V               ]       };
+    key <AB07> { [          k,  K               ]       };
+    key <AB08> { [          p,  P               ]       };
+    key <AB09> { [      comma,  less,   dead_cedilla, dead_caron        ] };
+    key <AB10> { [     period, greater, dead_abovedot, periodcentered  ] };
+};

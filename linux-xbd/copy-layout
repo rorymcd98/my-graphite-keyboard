@@ -1,5 +1,5 @@
 #!/bin/bash
 
-layout="pro-colemak-dh"
+layout="pro-graphite-iso"
 
 cp "./$layout" "/usr/share/X11/xkb/symbols/$layout"
